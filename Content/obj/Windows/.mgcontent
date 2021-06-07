@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bgLayer1.png</File>
+    <File>C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bgLayer2.png</File>
+    <File>C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/explosion.png</File>
+    <File>C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/GameFont.spritefont</File>
+    <File>C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/Heart.png</File>
+    <File>C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/laser.png</File>
+    <File>C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/mainbackground.png</File>
+    <File>C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/mainMenu.png</File>
+    <File>C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/mine.png</File>
+    <File>C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/player.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

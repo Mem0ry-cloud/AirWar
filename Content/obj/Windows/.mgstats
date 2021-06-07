@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bgLayer1.png","C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bin/Windows/bgLayer1.xnb","TextureProcessor","Texture2DContent",218274,1536085,0,2925572
+"C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bgLayer2.png","C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bin/Windows/bgLayer2.xnb","TextureProcessor","Texture2DContent",433043,1536085,0,0851475
+"C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/explosion.png","C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bin/Windows/explosion.xnb","TextureProcessor","Texture2DContent",273631,858757,0,0490968
+"C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/GameFont.spritefont","C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bin/Windows/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0,1957621
+"C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/Heart.png","C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bin/Windows/Heart.xnb","TextureProcessor","Texture2DContent",174558,864985,0,0465796
+"C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/laser.png","C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bin/Windows/laser.xnb","TextureProcessor","Texture2DContent",1612,3029,0,0043953
+"C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/mainbackground.png","C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bin/Windows/mainbackground.xnb","TextureProcessor","Texture2DContent",206786,1536085,0,0865303
+"C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/mainMenu.png","C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bin/Windows/mainMenu.xnb","TextureProcessor","Texture2DContent",584741,1536085,0,0847072
+"C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/mine.png","C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bin/Windows/mine.xnb","TextureProcessor","Texture2DContent",7227,11553,0,0074265
+"C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/player.png","C:/Users/Георгий/Desktop/AIRWAR/AIRWAR/Content/bin/Windows/player.xnb","TextureProcessor","Texture2DContent",15718,32101,0,0107914
